@@ -49,5 +49,8 @@ Security is a core focus. Only authorized administrators can access the dashboar
 Users unable to connect should check payment status or session validity. Payment issues are typically resolved by verifying account details. Administrators can review system logs and notifications to quickly address any issues.
 
 ---
+## Future Upgrades
 
-*Thank you for using the Litch DevOps Wi-Fi Billing System. For complete guidance, follow the links provided in each section.*
+This system is actively maintained and may undergo future upgrades to support increased scale, improved performance, and enhanced features. Users and administrators should expect occasional updates to workflows, dashboards, and user interfaces as part of ongoing improvements. All updates will be compatible with existing functionality and will always be comunicated before.
+---
+
