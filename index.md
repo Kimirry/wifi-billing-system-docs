@@ -1,4 +1,3 @@
-# Litch DevOps Wi-Fi Billing System Documentation
 
 Welcome to the official documentation for the **Litch DevOps Wi-Fi Billing System**.  
 This guide provides users and administrators with instructions on how to use and manage the system safely and effectively, without revealing sensitive technical details or internal logic.
@@ -36,16 +35,9 @@ The dashboard ensures safe system management without exposing sensitive credenti
 
 ## System Requirements
 
-The system runs on a standard server or desktop connected to a hotspot-enabled router. Users only need a Wi-Fi connection and access to the payment service. Administrators require a web browser to manage the system. Sensitive credentials and configurations remain private.
+Users only need a Wi-Fi connection and access to the payment service. Administrators require a web browser to manage the system. Sensitive credentials and configurations remain private.
 
 ---
-
-## Setup & Deployment
-
-Deployment involves setting up the system on a secure server connected to the router. Administrators configure credentials and define available Wi-Fi packages. Once deployed, the system automatically manages user sessions and payments. The dashboard allows administrators to monitor and maintain smooth operation.
-
----
-
 ## Security & Maintenance
 
 Security is a core focus. Only authorized administrators can access the dashboard. User sessions are automatically managed to prevent misuse, and all activity is logged securely. Payments are handled through verified services, and internal operations are never exposed.
