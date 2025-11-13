@@ -1,4 +1,7 @@
 
+
+
+
 Welcome to the official documentation for the **Litch DevOps Wi-Fi Billing System**.  
 This guide provides users and administrators with instructions on how to use and manage the system safely and effectively, without revealing sensitive technical details or internal logic.
 
@@ -16,7 +19,6 @@ Administrators can monitor connected users, track revenue, and manage packages t
 
 Users connect to the Wi-Fi network and are redirected to a secure login and payment page. After selecting a package and completing payment, they gain internet access immediately. Sessions end automatically when the package limit (time or data) is reached, ensuring fair use.
 
-For detailed instructions, see [User Workflow](usage.md).
 
 ---
 
